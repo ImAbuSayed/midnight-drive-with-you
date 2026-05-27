@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-drive-with-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Midnight Drive With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-drive-with-you/) |
+| **Get License** | [Commercial Licensing for Midnight Drive With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-drive-with-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing on the radio dial
+> Got your hand resting close to mine
+> No destination but the open mile
+> I just want to lose track of time
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
